@@ -107,4 +107,3 @@ Repository
 Commit
 
 Brach: checkout, marge(fast-forward, 3-way)
-
