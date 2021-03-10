@@ -18,33 +18,33 @@ Es importante para hacer la refactorización
 
 tipos:
 
-análisis dinámico (unit tests)
+- análisis dinámico (unit tests)
 
-análisis estático (lint)
+- análisis estático (lint)
 
 **Análisis estático de código**
 
-mediante analizadores estáticos (linters)
+- mediante analizadores estáticos (linters)
 
-mediante sitios web para inspección de código (continuous inspection)
+- mediante sitios web para inspección de código (continuous inspection)
 
 **linters**
 
-Analizadores estáticos de código
+Analizadores estáticos de código:
 
-lint: C
+- lint: C
 
-sonar: Java
+- sonar: Java
 
-JSLint, ESLint: JavaScript
+- JSLint, ESLint: JavaScript
 
 **Continuous Inspection**
 
 sitios web que ofrecen inspección de código:
 
-Scrutinizer
+- Scrutinizer
 
-SonarQube
+- SonarQube
 
 **REFACTORIZACIÓN**
 
@@ -52,47 +52,47 @@ Es el proceso para restructurar el codigo fuente, alterando la estructura intern
 
 Tecnicas:
 
-Renombrado de variables
+- Renombrado de variables
 
-Pasar código duplicado a funciones
+- Pasar código duplicado a funciones
 
-Eliminación de código inalcanzable
+- Eliminación de código inalcanzable
 
-Eliminación de código redundante
+- Eliminación de código redundante
 
-Eliminación de código muerto
+- Eliminación de código muerto
 
 ### DOCUMENTACIÓN
 
 **tipos de documentación**
 
-documentación de código
+- documentación de código
 
-documentación técnica
+- documentación técnica
 
-documentación de usuario
+- documentación de usuario
 
 **Formatos de documentación**
 
-HTML
+- HTML
 
-Markdown
+- Markdown
 
-reStructuredText
+- reStructuredText
 
-asciiDoc
+- asciiDoc
 
 ### CONTROL DE VERSIONES
 
 **Sistemas mas conocidos**
 
-CVS
+- CVS
 
-Subversion
+- Subversion
 
-Mercurial
+- Mercurial
 
-Git
+- Git
 
 **GIT**
 
@@ -102,8 +102,18 @@ Moderno, Distribuido, Eficiente
 
 **GIT (Conceptos)**
 
-Repository
+- Repository
 
-Commit
+- Commit
 
 Brach: checkout, marge(fast-forward, 3-way)
+
+**Sitios soportados por git**
+
+- gitHub
+
+- Bitbucket
+
+- GitLab
+
+- Coding (en chino)
